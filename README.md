@@ -15,7 +15,6 @@
 [![][github-issues-shield]][github-issues-link]  
 [![][github-contributors-shield]][github-contributors-link]
 [![][github-license-shield]][github-license-link]
-[![][FOSSA-Status]][FOSSA-Status]
 
 </div>
 
@@ -46,9 +45,6 @@ https://lug.ustc.edu.cn/wiki/doc/smart-questions
 [![][github-codespace-shield]][github-codespace-link]  
 
 
-## License
-
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FLuoXi-Project%2FLX_Project_Template.svg?type=large&issueType=license)](https://app.fossa.com/projects/git%2Bgithub.com%2FLuoXi-Project%2FLX_Project_Template?ref=badge_large&issueType=license) 
 
 ## ⭐️ Star 经历
 
@@ -61,7 +57,6 @@ https://lug.ustc.edu.cn/wiki/doc/smart-questions
     - 初版demo发布
 
 
-[FOSSA-Status]: https://app.fossa.com/api/projects/git%2Bgithub.com%2FLuoXi-Project%2FLX_Project_Template.svg?type=shield&labelColor=black&issueType=license
 [python]: https://img.shields.io/badge/python-3.10+-blue.svg?labelColor=black
 [back-to-top]: https://img.shields.io/badge/-BACK_TO_TOP-black?style=flat-square
 [github-action-release-link]: https://github.com/actions/workflows/LuoXi-Project/LX_Project_Template/release.yml
